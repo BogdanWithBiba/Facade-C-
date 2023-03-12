@@ -1,0 +1,7 @@
+C:\Users\yuske\source\repos\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\yuske\source\repos\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\yuske\source\repos\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\yuske\source\repos\Facade\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\yuske\source\repos\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\yuske\source\repos\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\yuske\source\repos\Facade\Facade\obj\Debug\Facade.pdb
